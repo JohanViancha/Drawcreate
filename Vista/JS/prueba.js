@@ -1,0 +1,3 @@
+$("#btningresar").click(function(e) {
+
+});
